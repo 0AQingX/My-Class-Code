@@ -6,7 +6,18 @@ hr {
     border-color: blanchedalmond;
     border-width: 10px;
 }
-
 body {
     background-color: darkseagreen;
+}
+
+.MY{
+    color: cadetblue;
+}
+
+#qwe{
+    color: darkcyan;
+}
+
+a:hover{
+    color: palevioletred;
 }
